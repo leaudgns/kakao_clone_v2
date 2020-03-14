@@ -1,8 +1,11 @@
 .header {
+  position: fixed;
+  width: 100%;
+  padding-right: 35px;
+  top: 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 30px;
 }
 
 .header .header__title {
