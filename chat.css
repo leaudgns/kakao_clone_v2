@@ -103,6 +103,7 @@ chat-body {
     0 18px 36px -18px rgba(0, 0, 0, 0.3), 0 -12px 36px -8px rgba(0, 0, 0, 0.025);
   padding: 10px 20px;
   border-radius: 20px;
+  display: block;
   color: white;
   font-weight: 500;
 }
